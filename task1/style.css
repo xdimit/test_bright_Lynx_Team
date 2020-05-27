@@ -1,0 +1,10 @@
+p {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+#calculator {
+	display: inline-block;
+	border: 1px solid black;
+	padding: 15px;
+}

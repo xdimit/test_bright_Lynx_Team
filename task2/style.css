@@ -1,0 +1,10 @@
+p {
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.container {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
+}
